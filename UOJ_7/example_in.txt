@@ -1,0 +1,20 @@
+3
+2 Math
+Daniel
+Alice Age:20 90
+Bob Age:19 95
+3 English
+Chris
+Elizabeth beauty 88
+Fate likes-cooking 91
+George ghost 90
+1 Chinese
+Iris
+Jacob genius 100
+3
+Alice Math
+Fate English
+Jacob Chinese
+2
+Math
+Chinese

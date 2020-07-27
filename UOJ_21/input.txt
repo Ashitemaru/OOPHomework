@@ -1,0 +1,14 @@
+4
+samsung-10-91
+lenovo-9-88
+mac-8-3
+thinkpad-1-90
+8
+ASK samsung lenovo
+SELL thinkpad
+SELL samsung
+BUY mac
+BUY lenovo
+SELL thinkpad
+ASK samsung lenovo
+CHANGE mac 92

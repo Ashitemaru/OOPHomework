@@ -1,0 +1,50 @@
+constructing Course: Math
+constructing Person Daniel
+constructing Teacher Daniel
+constructing Person Alice
+constructing Student Alice
+constructing Person Bob
+constructing Student Bob
+constructing Course: English
+constructing Person Chris
+constructing Teacher Chris
+constructing Person Elizabeth
+constructing Student Elizabeth
+constructing Person Fate
+constructing Student Fate
+constructing Person George
+constructing Student George
+constructing Course: Chinese
+constructing Person Iris
+constructing Teacher Iris
+constructing Person Jacob
+constructing Student Jacob
+========================================
+Student Alice Age:20 Score:90
+Student Fate likes-cooking Score:91
+Student Jacob genius Score:100
+----------------------------------------
+Math: Daniel
+Chinese: Iris
+========================================
+destructing Teacher Daniel
+destructing Person Daniel
+destructing Student Alice
+destructing Person Alice
+destructing Student Bob
+destructing Person Bob
+destructing Course: Math
+destructing Teacher Chris
+destructing Person Chris
+destructing Student Elizabeth
+destructing Person Elizabeth
+destructing Student Fate
+destructing Person Fate
+destructing Student George
+destructing Person George
+destructing Course: English
+destructing Teacher Iris
+destructing Person Iris
+destructing Student Jacob
+destructing Person Jacob
+destructing Course: Chinese

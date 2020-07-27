@@ -1,0 +1,16 @@
+Create a player
+play all
+audio: playing mp3
+audio: playing wav
+video: playing mp4 of length 20
+video: playing avi of length 50
+pause all
+audio: pause playing mp3
+audio: pause playing wav
+video: pause playing mp4
+video: pause playing avi
+double speed
+audio cannot be double speed
+audio cannot be double speed
+video: double speed mp4
+video: double speed avi

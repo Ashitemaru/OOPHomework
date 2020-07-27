@@ -1,0 +1,9 @@
+Length of *iw1: -1
+Length of *iw2: -1
+Length of *sw: 15
+Length of *csw: 18
+Actual length of *csw: 6
+chineseString0_3: 这是一句中文
+string0_2: abcdefghijklmno
+int1_1: 2317
+int0_0: 8263

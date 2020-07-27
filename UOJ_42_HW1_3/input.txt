@@ -1,0 +1,32 @@
+5
+A
+B
+C
+D
+E
+UPDATE 3
+A
+B
+C
+UPDATE 3
+A
+D
+B
+UPDATE 3
+A
+B
+E
+UPDATE 4
+A
+C
+B
+D
+QUERY
+CHECK E
+UPDATE 5
+A
+B
+C
+D
+E
+END
