@@ -1,0 +1,8 @@
+3
+1 1 Thursday
+1 2 Friday
+1 3 Saturday
+3
+1 1 Work
+1 2 Study
+1 1 Swim

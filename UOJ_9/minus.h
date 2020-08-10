@@ -3,8 +3,8 @@
 #include "Operator.h"
 #include "Value.h"
 
-class Plus: public Operator {
+class Minus: public Operator {
 public:
-    Plus(Value*, Value*);
+    Minus(Value*, Value*);
     virtual int calc() override;
 };
