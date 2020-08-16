@@ -2,3 +2,5 @@
 
 */main
 */*.zip
+*/*.o
+*/main.dSYM/
