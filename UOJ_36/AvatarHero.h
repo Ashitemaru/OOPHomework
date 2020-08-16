@@ -3,7 +3,7 @@
 
 class AvatarHero : public SkilledHero {
 public:
-	AvatarHero(Hero* ptr) {
-		AvatarLevel++;
+	AvatarHero(Hero* src) {
+		avatarLevel++;
 	}
 };

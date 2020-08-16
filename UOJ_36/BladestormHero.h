@@ -3,7 +3,7 @@
 
 class BladestormHero : public SkilledHero {
 public:
-	BladestormHero(Hero* ptr) {
-		BladestormLevel++;
-	};
+	BladestormHero(Hero* src) {
+		bladestormLevel++;
+	}
 };
