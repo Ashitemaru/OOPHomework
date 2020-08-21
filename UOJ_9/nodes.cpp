@@ -21,5 +21,5 @@ Modify::Modify(Value* t, int v): tar(t), val(v) {};
 
 int Modify::calc() {
     dynamic_cast<Constant*>(tar)->changeVal(val);
-    return 0x3f3f3f;
+    return tar->calc();
 }
