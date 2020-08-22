@@ -2,17 +2,18 @@
 
 #include "Test.h"
 
-Test f1(Test p){
-    p.print("a");
-    return std::move(p);
+Test f1(Test a) {
+    a.print("a");
+    return a;
 }
 
-Test& f2(Test& p){
-    p.print("b");
-    return p;
+Test& f2(Test& b) {
+    b.print("b");
+    return b;
 }
 
-void f3(Test& a,Test& b){
-    Test c=std::move(a);
-    return;
+void f3(Test& a, Test& b) {
+    Test tmp = move(a);
+	a = move(b);
+	b = move(tmp);
 }

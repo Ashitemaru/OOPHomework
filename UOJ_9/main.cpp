@@ -51,7 +51,7 @@ int main()
             int n, val;
         	std::cin >> n >> val;
             v[i] = new Modify(v[n], val);
-            v[i]->calc();
+            dynamic_cast<Constant*>(v[n])->changeVal(val);
         }
     }
 	return 0;

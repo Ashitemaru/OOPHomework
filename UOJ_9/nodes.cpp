@@ -20,6 +20,5 @@ int Print::calc() {
 Modify::Modify(Value* t, int v): tar(t), val(v) {};
 
 int Modify::calc() {
-    dynamic_cast<Constant*>(tar)->changeVal(val);
     return tar->calc();
 }
